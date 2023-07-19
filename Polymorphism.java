@@ -68,7 +68,7 @@ public class Main
 }
 
 
-//OUTPUT :
+/*OUTPUT :
 
 
 Enter the first value :
@@ -86,3 +86,4 @@ Area of the Triangle is : 24.0
 Enter the radius value :
 6
 Area of the Circle is : 113.03999999999999
+*/
