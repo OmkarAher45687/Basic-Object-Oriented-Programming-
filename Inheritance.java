@@ -112,7 +112,7 @@ public class Main
 
 
 
-//OUTPUT:
+/*OUTPUT:
 
 
 1.programmer 
@@ -252,3 +252,4 @@ Enter your choice:
 Choose from above for payment slip :
 
 5
+*/
